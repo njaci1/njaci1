@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DevOps engineering 
 - 💞️ I’m looking to collaborate on python and DevOps projects
 - 📫 How to reach me: kelvinjasy@gmail.com
+- For the last few weekes I have been going hard at HTML,CSS,Javascript.
 
 <!---
 njaci1/njaci1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
