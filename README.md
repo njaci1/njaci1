@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @njaci1
-- 👀 I’m interested in python and DevOps for use in product management
-- 🌱 I’m currently learning DevOps engineering 
-- 💞️ I’m looking to collaborate on python and DevOps projects
-- 📫 How to reach me: kelvinjasy@gmail.com
-- For the last few weekes I have been going hard at HTML,CSS,Javascript.
+- 👋 Hi, I’m Kelvin Njaci
+- I am a Program Manager for Microsoft Graph Developer Experinece at Microsoft.
 
 <!---
 njaci1/njaci1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
